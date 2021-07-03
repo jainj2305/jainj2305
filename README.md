@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning AI & ML
+- 👯 I’m looking to collaborate on Python based projects
+- 💬 Ask me anything about Python
+- 📫 How to reach me: www.linkedin.com/in/jainj2305
+- ⚡ Fun fact: Coding is like playing with computers😉. Let's code! Let's have fun!! 😃😃
+
 <!--
 **jainj2305/jainj2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
