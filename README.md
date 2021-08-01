@@ -15,7 +15,6 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
 </p>
-<br/>
 <p align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=jainj2305" id="counter">
 </p>
