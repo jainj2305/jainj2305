@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning AI & ML
 - 👯 I’m looking to collaborate on Python based projects
 - 💬 Ask me anything about Python
-- 📫 How to reach me: <a href="https://linkedin.com/in/jainj2305" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 - ⚡ Fun fact: Coding is like playing with computers😉. Let's code! Let's have fun!! 😃😃
-
+<p align="center">
+ <a href="https://linkedin.com/in/jainj2305" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=jainj2305" id="counter">
+</p>
 <!--
 **jainj2305/jainj2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
