@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a **backend developer** with over 3 years of p
   - **Software Engineer at AppPerfect Corp.**: Developed over 20 APIs, managed 40+ microservices for a European payment gateway, and implemented monitoring solutions to improve system uptime.
   - **Technical Team Lead Intern at Tech Exordium**: Led a team of 5 developers, optimizing database interactions and backend functionalities.
   - **Django Developer Intern at 3HandShake Innovation Pvt. Ltd.**: Built the company’s website, improving development efficiency with reusable modules.
-- 🌱 **Currently Learning**: Ethical hacking and exploring advanced cloud technologies.
 
 ## 🔧 Tech Stack:
 - **Programming Languages**: Java, Python, C/C++
